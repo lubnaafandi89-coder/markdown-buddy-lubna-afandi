@@ -1,4 +1,4 @@
-> AI Assistance Declaration: ChatGPT assisted with adapting, reviewing, and formatting this synthetic retail documentation for Lubna Afandi. The supplied HTML identifies Lubna Afandi as author and contains executed code output. GitHub screenshots show the five project files. Prompts, provenance, and verification results are recorded in Appendix.md.
+> AI Assistance Declaration: ChatGPT assisted with documentation structure, wording, illustrative R code, and reflection drafting. Main prompts: adapt the project for Lubna; review README and R Markdown; improve formatting and check assignment completeness. Full available requests and response summaries are in Appendix.md. Review used the supplied HTML, screenshots, source comparison, and Markdown checks. No analytical calculations were required. Lubna Afandi is responsible for reviewing the accuracy and originality of the submission. Tool: ChatGPT; exact model/version was not recorded. Original work: October 31, 2026; final editorial review: November 1, 2026.
 
 # Synthetic Retail Sales: R Documentation Project
 
@@ -19,7 +19,7 @@ Create and inspect fictional retail records using R. The project displays a data
 | `README.md` | Setup, usage, dependencies, verification, and disclosure |
 | `sales_preview.R` | Standalone base R script: data, console output, and chart |
 | `Sales_Documentation.Rmd` | Script documentation with executable examples and an HTML table |
-| `Reflection.md` | Approved reflection and three proposed questions with answers |
+| `Reflection.md` | Three proposed reflection questions and reasoned responses |
 | `Appendix.md` | Actual prompt record, review findings, and verification evidence |
 
 ## Installation
@@ -32,7 +32,7 @@ install.packages(c("rmarkdown", "knitr"))
 
 Rendering also needs Pandoc, normally supplied with RStudio. Keep the five project files in the same directory.
 
-## Example usage
+## Example Code and Usage
 
 Set the working directory to the project folder. Run the standalone script:
 
@@ -83,4 +83,8 @@ No open-source license has been selected; no reuse permissions are asserted.
 
 ## AI Assistance Disclosure
 
-ChatGPT helped draft and review these files. Two documentation improvements clarified the real workflow and replaced obsolete verification statements with evidence-based results. At the student's request, the final revision adds a standalone R script and three proposed reflection questions. Those questions are identified as supplementary rather than quoted from the college instructions. The student remains responsible for reviewing the submitted work.
+**Tool and dates:** ChatGPT; exact model/version was not recorded. Initial adaptation: October 31, 2026. Final editorial review: November 1, 2026.
+
+**Main requests:** adapt the project for Lubna; review README and R Markdown and apply two improvements; add a standalone script and proposed reflection responses; improve presentation and audit assignment completeness. Appendix.md records the available requests as English translations and summarizes the results.
+
+**Changes after review:** clarified the script/report relationship; replaced blanket pending-verification statements with observed evidence; improved heading hierarchy, code explanations, and the PDF layout; added a requirement-by-requirement audit. AI-assisted examples and reflection drafts are disclosed. The source code is unchanged in the final editorial revision.

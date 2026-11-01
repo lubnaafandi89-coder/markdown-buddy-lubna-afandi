@@ -1,3 +1,12 @@
+# AI Assistance Declaration: ChatGPT assisted with documentation structure, wording, illustrative R code, and reflection drafting.
+# Main prompts: adapt the project for Lubna; review README and R Markdown; improve formatting and check assignment completeness.
+# Full available requests and response summaries are in Appendix.md.
+# Review used the supplied HTML, screenshots, source comparison, and Markdown checks.
+# No analytical calculations were required.
+# Lubna Afandi is responsible for reviewing the accuracy and originality of the submission.
+# Tool: ChatGPT; exact model/version was not recorded.
+# Original work: October 31, 2026; final editorial review: November 1, 2026.
+
 # Synthetic Retail Sales
 # Author: Lubna Afandi
 # AI assistance: ChatGPT helped draft and extract this illustrative workflow.
