@@ -9,7 +9,7 @@ output:
     theme: flatly
 ---
 
-> AI Assistance Declaration: ChatGPT adapted this documentation and example code for Lubna Afandi from an existing synthetic retail example. Original execution evidence belongs to the reference project; a separate run by Lubna is not claimed. See Appendix.md for provenance and review scope.
+> AI Assistance Declaration: ChatGPT assisted with adapting, reviewing, and formatting this synthetic retail documentation for Lubna Afandi. The supplied HTML identifies Lubna Afandi as author and contains executed code output. GitHub screenshots show the five project files. Prompts, provenance, and verification results are recorded in Appendix.md.
 
 # Purpose
 
@@ -64,7 +64,7 @@ barplot(
 
 # Outputs
 
-Knitting this source file creates `Sales_Documentation.html`, containing the explanatory sections, code, structure display, input table, and chart. The reference project HTML contains these outputs. The render creates the `sales` data frame in its execution environment; it need not appear in the interactive RStudio Global Environment. No source data are overwritten and no computed business conclusions are claimed.
+Knitting this source file creates `Sales_Documentation.html`, containing the explanatory sections, code, structure display, input table, and chart. The supplied HTML for Lubna contains these outputs. The render creates the `sales` data frame in its execution environment; it need not appear in the interactive RStudio Global Environment. No source data are overwritten and no computed business conclusions are claimed.
 
 # Verification and troubleshooting
 
@@ -80,4 +80,6 @@ No calculation is necessary for this creation-and-inspection example. If numeric
 
 # Validation status
 
-The four executable chunks match the original example. Reference output shows four observations and three variables, with quantities 10, 15, 8, and 12. A separate render of this adaptation by Lubna has not yet been provided. The repository upload page confirms that her repository exists; successful upload and preview are separate checks.
+The supplied `Sales_Documentation(2).html` identifies Lubna Afandi as author and displays four observations and three variables. All four table rows match the input: Notebook (10, 4), Pen (15, 2), Folder (8, 3), and Marker (12, 5), where pairs are units and unit price in CAD. The embedded chart was inspected: labels follow the same product order and bar heights are 10, 15, 8, and 12. The GitHub screenshot shows all five files and commit `dcddb75` with two commits visible. The screenshot does not show the full rendered README body. The standalone script was compared with the R Markdown source; separate execution of that script is not claimed.
+
+This update changes documentation only; all four executable chunks are preserved from the supplied rendered version.

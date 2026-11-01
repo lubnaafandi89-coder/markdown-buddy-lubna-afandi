@@ -1,4 +1,4 @@
-> AI Assistance Declaration: ChatGPT adapted this documentation and example code for Lubna Afandi from an existing synthetic retail example. Original execution evidence belongs to the reference project; a separate run by Lubna is not claimed. See Appendix.md for provenance and review scope.
+> AI Assistance Declaration: ChatGPT assisted with adapting, reviewing, and formatting this synthetic retail documentation for Lubna Afandi. The supplied HTML identifies Lubna Afandi as author and contains executed code output. GitHub screenshots show the five project files. Prompts, provenance, and verification results are recorded in Appendix.md.
 
 # Synthetic Retail Sales: R Documentation Project
 
@@ -69,9 +69,7 @@ The script prints records and creates a chart in the active graphics device. The
 
 ## Verification
 
-The original reference project produced matching records and a chart. The executable R Markdown chunks are preserved in this adaptation. The standalone script uses the same data and plotting expressions. These are source consistency checks, not evidence of a separate execution by Lubna.
-
-To verify this copy, render the R Markdown in RStudio, compare all four table rows and chart labels with the input, and preview this README on GitHub. Record the observed results in Appendix.md.
+The supplied `Sales_Documentation(2).html` identifies Lubna Afandi as author and displays four observations and three variables. All four table rows match the input: Notebook (10, 4), Pen (15, 2), Folder (8, 3), and Marker (12, 5), where pairs are units and unit price in CAD. The embedded chart was inspected: labels follow the same product order and bar heights are 10, 15, 8, and 12. The GitHub screenshot shows all five files and commit `dcddb75` with two commits visible. The screenshot does not show the full rendered README body. The standalone script was compared with the R Markdown source; separate execution of that script is not claimed.
 
 ## License
 

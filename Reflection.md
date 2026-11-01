@@ -1,4 +1,4 @@
-> AI Assistance Declaration: ChatGPT adapted this documentation and example code for Lubna Afandi from an existing synthetic retail example. Original execution evidence belongs to the reference project; a separate run by Lubna is not claimed. See Appendix.md for provenance and review scope.
+> AI Assistance Declaration: ChatGPT assisted with adapting, reviewing, and formatting this synthetic retail documentation for Lubna Afandi. The supplied HTML identifies Lubna Afandi as author and contains executed code output. GitHub screenshots show the five project files. Prompts, provenance, and verification results are recorded in Appendix.md.
 
 # Reflection
 

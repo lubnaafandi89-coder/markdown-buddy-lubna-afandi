@@ -1,4 +1,4 @@
-> AI Assistance Declaration: ChatGPT adapted this documentation and example code for Lubna Afandi from an existing synthetic retail example. Original execution evidence belongs to the reference project; a separate run by Lubna is not claimed. See Appendix.md for provenance and review scope.
+> AI Assistance Declaration: ChatGPT assisted with adapting, reviewing, and formatting this synthetic retail documentation for Lubna Afandi. The supplied HTML identifies Lubna Afandi as author and contains executed code output. GitHub screenshots show the five project files. Prompts, provenance, and verification results are recorded in Appendix.md.
 
 # Appendix
 
@@ -16,7 +16,7 @@ Prepared an English PDF adaptation and five source files. Added the observed rep
 
 https://github.com/lubnaafandi89-coder/markdown-buddy-lubna-afandi
 
-The supplied screenshot shows this repository's upload page under account lubnaafandi89-coder. It does not yet show a completed commit or rendered README.
+The supplied repository screenshot shows the five files, commit `dcddb75`, and two commits.
 
 ## Two documentation improvements
 
@@ -29,7 +29,13 @@ Markdown fences and heading structure were checked. R Markdown retains four uniq
 
 ## Provenance and execution scope
 
-The example was adapted from the Mohammad Aljarad synthetic retail project. Its supplied HTML showed four records and a matching bar chart. Those outputs are reference evidence, not Lubna's execution record. No separate run, peer check, or completed GitHub upload is claimed for this adaptation.
+The synthetic example was adapted from the earlier documentation project. Verification now uses the separately supplied HTML bearing Lubna Afandi as author.
+
+The supplied `Sales_Documentation(2).html` identifies Lubna Afandi as author and displays four observations and three variables. All four table rows match the input: Notebook (10, 4), Pen (15, 2), Folder (8, 3), and Marker (12, 5), where pairs are units and unit price in CAD. The embedded chart was inspected: labels follow the same product order and bar heights are 10, 15, 8, and 12. The GitHub screenshot shows all five files and commit `dcddb75` with two commits visible. The screenshot does not show the full rendered README body. The standalone script was compared with the R Markdown source; separate execution of that script is not claimed.
+
+## Latest review exchange
+
+The requester uploaded the rendered HTML after guidance to Knit the Lubna R Markdown file. ChatGPT inspected its author, code output, table, and embedded chart, and updated verification statements in README, R Markdown, this appendix, and the PDF. No further code changes were made.
 
 ## README outline
 
